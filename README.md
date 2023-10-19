@@ -11,7 +11,7 @@ _In Sublime, go to: Preferences --> Key Bindings - user. </br>
 Copy the shortcut to the sublime-keymap and save it. </br>
 Shortcut keys: "ctrl+alt+b" </br>_
 
-# uBlock Origin yt fiter rules (effective as of 19.10.23)
+# uBlock Origin yt filter rules (effective as of 19.10.23)
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false) </br>
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0) </br>
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, []) </br>
